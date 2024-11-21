@@ -1,0 +1,6 @@
+.home-bg-container{
+    display: felx;
+    flex-direction: column;
+    background-color: #152850;
+    height: 100vh;
+}

@@ -1,0 +1,15 @@
+.nav-contaienr {
+  height: 15vh;
+  background-color: #152850;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.logout-button{
+  background: transparent;
+  border:  1px solid white;
+  font-family: "Roboto";
+  color: white;
+}
